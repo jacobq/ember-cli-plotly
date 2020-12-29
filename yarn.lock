@@ -23,7 +23,7 @@
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.12.7.tgz#9329b4782a7d6bbd7eef57e11addf91ee3ef1e41"
   integrity sha512-YaxPMGs/XIWtYqrdEOZOCPsVWfEoriXopnsz3/i7apYPXQ3698UFhS6dVT1KN5qOsWmVgw/FOrmQgpRaZayGsw==
 
-"@babel/core@^7", "@babel/core@^7.1.6", "@babel/core@^7.12.0", "@babel/core@^7.12.3", "@babel/core@^7.3.4":
+"@babel/core@7.12.10", "@babel/core@^7.1.6", "@babel/core@^7.12.0", "@babel/core@^7.12.3", "@babel/core@^7.3.4":
   version "7.12.10"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.12.10.tgz#b79a2e1b9f70ed3d84bbfb6d8c4ef825f606bccd"
   integrity sha512-eTAlQKq65zHfkHZV0sIVODCPGVgoo1HdBlbSLi9CqOzuZanMv2ihzY+4paiKr1mH+XmYESMAmJ/dpZ68eN6d8w==
@@ -965,7 +965,7 @@
     mkdirp "^1.0.4"
     silent-error "^1.1.1"
 
-"@ember/test-helpers@^2.1.4":
+"@ember/test-helpers@2.1.4":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@ember/test-helpers/-/test-helpers-2.1.4.tgz#18cc78f3f9230a66955eb4307541129b53ebd487"
   integrity sha512-CcDAWfzYE4r1YApufPPINm0IZL223yv/JiG61rjZr0KPyGBCOWjA9b//bY+jdAwZIEsmoMDfMbSS3p1u3c6i5w==
@@ -979,7 +979,7 @@
     ember-destroyable-polyfill "^2.0.2"
     es6-promise "^4.2.8"
 
-"@ember/test-waiters@^2.3.2":
+"@ember/test-waiters@2.3.2", "@ember/test-waiters@^2.3.2":
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/@ember/test-waiters/-/test-waiters-2.3.2.tgz#5d416d25209b25b16116df0a01a856437362b7eb"
   integrity sha512-4zDQd14br6VzvBf0PD/dm6Vg9nG33WUW14UGI26k+iOGG9iY++pHL5+PnrvCxxrZ9867EPTULy8K2oneenAtSw==
@@ -5255,7 +5255,7 @@ elliptic@^6.5.3:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.0"
 
-ember-auto-import@^1.10.0, ember-auto-import@^1.10.1:
+ember-auto-import@1.10.1, ember-auto-import@^1.10.0:
   version "1.10.1"
   resolved "https://registry.yarnpkg.com/ember-auto-import/-/ember-auto-import-1.10.1.tgz#6c93a875e494aa0a58b759867d3f20adfd514ae3"
   integrity sha512-7bOWzPELlVwdWDOkB+phDIjg8BNW+/2RiLLQ+Xa/eIvCLT4ABYhHV5wqW5gs5BnXTDVLfE4ddKZdllnGuPGGDQ==
@@ -5463,7 +5463,7 @@ ember-cli-string-utils@^1.1.0:
   resolved "https://registry.yarnpkg.com/ember-cli-string-utils/-/ember-cli-string-utils-1.1.0.tgz#39b677fc2805f55173735376fcef278eaa4452a1"
   integrity sha1-ObZ3/CgF9VFzc1N2/O8njqpEUqE=
 
-ember-cli-terser@^4.0.1:
+ember-cli-terser@4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/ember-cli-terser/-/ember-cli-terser-4.0.1.tgz#0da0b8f2b09989e8c992b207553ddec1bbb65915"
   integrity sha512-vvp0uVl8reYeW9EZjSXRPR3Bq7y4u9CYlUdI7j/WzMPDj3/gUHU4Z7CHYOCrftrClQvFfqO2eXmHwDA6F7SLug==
@@ -5886,7 +5886,7 @@ ember-source@3.23.1:
     semver "^6.1.1"
     silent-error "^1.1.1"
 
-ember-template-lint@^2.15.0:
+ember-template-lint@2.15.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/ember-template-lint/-/ember-template-lint-2.15.0.tgz#7a3b8dd97498bc777b4633f1a2a5ad63f63a6e77"
   integrity sha512-hARl20XxqDbAPC68He1GBi0nDenJuy13Czo4NKaD72Vro+M3AxXOkKoSibeup1hxMAfuY/mWQYfqRij+bKWOhA==
@@ -6246,7 +6246,7 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-2.0.0.tgz#21fdc8fbcd9c795cc0321f0563702095751511a8"
   integrity sha512-QudtT6av5WXels9WjIM7qz1XD1cWGvX4gGXvp/zBn9nXG02D0utdU3Em2m/QjTnrsk6bBjmCygl3rmj118msQQ==
 
-eslint@^7.16.0:
+eslint@7.16.0:
   version "7.16.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.16.0.tgz#a761605bf9a7b32d24bb7cde59aeb0fd76f06092"
   integrity sha512-iVWPS785RuDA4dWuhhgXTNrGxHHK3a8HLSMBgbbU59ruJDubUraXN8N5rn7kb8tG6sjg74eE0RA3YWT51eusEw==
@@ -10233,7 +10233,7 @@ npm-package-arg@^8.1.0:
     semver "^7.0.0"
     validate-npm-package-name "^3.0.0"
 
-npm-run-all@^4.1.5:
+npm-run-all@4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.1.5.tgz#04476202a15ee0e2e214080861bff12a51d98fba"
   integrity sha512-Oo82gJDAVcaMdi3nuoKFavkIHBRVqQ1qvMb+9LHk/cF4P6B2m8aP04hGf7oL6wZ9BuGwX1onlLhpuoofSyoQDQ==
