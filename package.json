@@ -55,7 +55,7 @@
     "ember-cli-deprecation-workflow": "1.0.1",
     "ember-cli-inject-live-reload": "2.0.2",
     "ember-cli-sri": "2.1.1",
-    "ember-cli-terser": "^4.0.1",
+    "ember-cli-terser": "4.0.2",
     "ember-cli-testdouble": "0.1.4",
     "ember-component-css": "0.7.4",
     "ember-decorators-polyfill": "1.1.5",
